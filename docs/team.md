@@ -18,7 +18,7 @@ const members = [
   },
   {
     avatar: 'https://www.github.com/Jingyijun.png',
-    name: 'Jingyijun',
+    name: 'JingYiJun',
     links: [
       { icon: 'github', link: 'https://github.com/Jingyijun' },
     ]
