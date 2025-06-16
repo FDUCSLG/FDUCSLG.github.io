@@ -162,6 +162,13 @@
   transition: opacity 0.25s;
 }
 
+:root {
+  --vp-nav-height: 64px;
+  --vp-nav-bg-color: var(--vp-c-bg);
+  --vp-nav-screen-bg-color: var(--vp-c-bg);
+  --vp-nav-logo-height: 40px;
+}
+
 
 
 /**

@@ -8,11 +8,8 @@ hero:
   tagline: "源启复旦，码动未来"
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 活动
+      link: /events
 
 features:
   - title: "📚 COMP101"
@@ -24,6 +21,7 @@ features:
 
   - title: "📡 镜像站服务"
     details: "提供高效稳定的开源软件下载服务"
+    link: "https://mirrors.fducslg.com/"
 
   - title: "🛠️ 开源项目"
     details: "开源课程仓库/PPT模板/论文模板"
