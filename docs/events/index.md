@@ -2,7 +2,9 @@
 
 ## 2024-2025
 
+- [FDUCSLG 走进 JetBrains 上海总部，探索技术与开源的共鸣之道！](./2024-2025/news05.md)
 - [勇夺亚军季军！FDUCSLG 组队出征昇腾算子挑战赛总结](./2024-2025/news04.md)
+
 - [讲座07：用 Slidev 制作幻灯片](./2024-2025/talk07.md)
 - [活动06：Install Party：Linux安装与经验分享](./2024-2025/activity06.md)
 - [FDUCSLG 招新](./2024-2025/news03.md)
