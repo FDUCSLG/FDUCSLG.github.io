@@ -51,6 +51,20 @@ const members = [
     ]
   },
   {
+    avatar: 'https://www.github.com/Meredith2328.png',
+    name: 'Meredith2328',
+    links: [
+      { icon: 'github', link: 'https://github.com/Meredith2328' },
+    ]
+  },
+  {
+    avatar: 'https://www.github.com/kaysonyu.png',
+    name: 'kaysonyu',
+    links: [
+      { icon: 'github', link: 'https://github.com/kaysonyu' },
+    ]
+  },
+  {
     avatar: 'https://www.github.com/koowz.png',
     name: 'koowz',
     links: [
