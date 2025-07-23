@@ -17,7 +17,7 @@ export default defineConfig({
       {
         text: '活动',
         items: [
-          // { text: '活动公告', link: '/events/' },
+          { text: '活动公告', link: '/events/' },
           {
             text: '2022-2023',
             collapsed: true,
@@ -51,6 +51,7 @@ export default defineConfig({
               { text: '活动06：Install Party：Linux安装与经验分享', link: '/events/2024-2025/activity06' },
               { text: '讲座07：用 Slidev 制作幻灯片', link: '/events/2024-2025/talk07' },
               { text: '勇夺亚军季军！FDUCSLG 组队出征昇腾算子挑战赛总结', link: '/events/2024-2025/news04' },
+              { text: 'FDUCSLG 走进 JetBrains 上海总部，探索技术与开源的共鸣之道！', link: '/events/2024-2025/news05' },
             ]
           }
         ],
