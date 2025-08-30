@@ -12,9 +12,9 @@ hero:
       link: /events
 
 features:
-  - title: "📚 COMP101"
+  - title: "📚 CS101"
     details: "本科生计算机入门指南"
-    link: "https://comp101.fducslg.com/"
+    link: "https://cs101.fducslg.com/"
 
   - title: "💡 技术分享讲座"
     details: "前沿技术讲座与开源实践交流"

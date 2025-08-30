@@ -38,8 +38,8 @@
 ## 社团活动
 
 - **讲座**：CCF 开源校园行、业界大牛技术分享
-- **COMP101**：计算机入门小帮手  
-  [https://comp101.fducslg.com/](https://comp101.fducslg.com/)
+- **CS101**：计算机入门小帮手  
+  [https://cs101.fducslg.com/](https://cs101.fducslg.com/)
 - **开源软件镜像站**
 
 ![FDUCSLG Poster](/FDUCSLGPoster.png)
