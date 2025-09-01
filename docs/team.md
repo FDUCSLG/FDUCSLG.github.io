@@ -81,39 +81,6 @@ const members = [
 ]
 </script>
 
-<style>
-
-@media (min-width: 768px) {
-    .VPTeamPage[data-v-5f7da39d] {
-        margin: 5vh 0;
-    }
-}
-
-@media (min-width: 960px) {
-    .VPTeamPageTitle[data-v-baf690b4] {
-        padding: 0px 40px 48px;
-    }
-}
-
-@media (min-width: 768px) {
-    .lead[data-v-baf690b4] {
-        max-width: 740px;
-        letter-spacing: 0.1px;
-        line-height: 28px;
-        font-size: 20px;
-    }
-}
-
-.title-line[data-v-38a4eb39] {
-    position: absolute;
-    top: 16px;
-    left: 0;
-    width: 100%;
-    height: 1px;
-    background-color: var(--vp-c-divider);
-}
-</style>
-
 <VPTeamPage>
 
 <VPTeamPageSection>

@@ -92,17 +92,13 @@
 
 :root {
   --vp-home-hero-name-color: transparent;
-  --vp-home-hero-name-background: -webkit-linear-gradient(
-    120deg,
-    #3451b2 30%,
-    #131681
-  );
+  --vp-home-hero-name-background: -webkit-linear-gradient(120deg,
+      #3451b2 30%,
+      #131681);
 
-  --vp-home-hero-image-background-image: linear-gradient(
-    -45deg,
-    #bd34fe 50%,
-    #47caff 50%
-  );
+  --vp-home-hero-image-background-image: linear-gradient(-45deg,
+      #bd34fe 50%,
+      #47caff 50%);
   --vp-home-hero-image-filter: blur(44px);
 }
 
@@ -131,27 +127,26 @@
 
 @media (min-width: 960px) {
   .name[data-v-72cc4481] {
-      font-size: 70px;
-      line-height: 80px;
+    font-size: 70px;
+    line-height: 80px;
   }
 }
 
 @media (min-width: 960px) {
   .text[data-v-72cc4481] {
-      font-size: 54px;
-      line-height: 80px;
+    font-size: 54px;
+    line-height: 80px;
   }
 }
 
 @media (min-width: 960px) {
   .tagline[data-v-72cc4481] {
-      font-size: 28px;
+    font-size: 28px;
   }
 }
 
 .title[data-v-55e263fd] {
-  display: flex
-;
+  display: flex;
   align-items: center;
   border-bottom: 1px solid transparent;
   width: 100%;
@@ -179,3 +174,33 @@
   --docsearch-primary-color: var(--vp-c-brand-1) !important;
 }
 
+
+@media (min-width: 768px) {
+  .VPPage .VPTeamPage {
+    margin: 5vh 0;
+  }
+}
+
+@media (min-width: 960px) {
+  .VPPage .VPTeamPageTitle {
+    padding: 0px 40px 48px;
+  }
+}
+
+@media (min-width: 768px) {
+  .VPPage .lead {
+    max-width: 740px;
+    letter-spacing: 0.1px;
+    line-height: 28px;
+    font-size: 20px;
+  }
+}
+
+.title-line[data-v-38a4eb39] {
+  position: absolute;
+  top: 16px;
+  left: 0;
+  width: 100%;
+  height: 1px;
+  background-color: var(--vp-c-divider);
+}
