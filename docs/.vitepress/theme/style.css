@@ -126,26 +126,26 @@
 }
 
 @media (min-width: 960px) {
-  .name[data-v-72cc4481] {
+  .VPHero .name {
     font-size: 70px;
     line-height: 80px;
   }
 }
 
 @media (min-width: 960px) {
-  .text[data-v-72cc4481] {
+  .VPHero .text {
     font-size: 54px;
     line-height: 80px;
   }
 }
 
 @media (min-width: 960px) {
-  .tagline[data-v-72cc4481] {
+  .VPHero .tagline {
     font-size: 28px;
   }
 }
 
-.title[data-v-55e263fd] {
+.VPNav .title {
   display: flex;
   align-items: center;
   border-bottom: 1px solid transparent;
