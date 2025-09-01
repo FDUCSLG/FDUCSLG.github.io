@@ -53,6 +53,13 @@ export default defineConfig({
               { text: '勇夺亚军季军！FDUCSLG 组队出征昇腾算子挑战赛总结', link: '/events/2024-2025/news04' },
               { text: 'FDUCSLG 走进 JetBrains 上海总部，探索技术与开源的共鸣之道！', link: '/events/2024-2025/news05' },
             ]
+          },
+          {
+            text: '2025-2026',
+            collapsed: true,
+            items: [
+              { text: '活动07：新生报到日摆摊 & Vibe Coding 体验 & 开源知识问答', link: '/events/2025-2026/activity07' }
+            ]
           }
         ],
       },
