@@ -71,6 +71,10 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/FDUCSLG' }
-    ]
+    ],
+
+    footer: {
+      copyright: 'Copyright © 2025-present FDUCSLG'
+    }
   }
 })
