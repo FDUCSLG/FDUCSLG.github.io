@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "FDUCSLG"
-  text: "开放原子开源社团"
-  tagline: "源启复旦，码动未来"
+  text: "复旦计算机爱好者协会"
+  tagline: "Think. Build. Share."
   actions:
     - theme: brand
       text: 活动
